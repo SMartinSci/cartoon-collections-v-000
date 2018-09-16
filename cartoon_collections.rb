@@ -6,7 +6,7 @@ end
 
 def summon_captain_planet(planeteer_calls)
  
- planeteer_calls.capitalize
+ planeteer_calls.capitalize.map.
 end
 
 def long_planeteer_calls# code an argument here
